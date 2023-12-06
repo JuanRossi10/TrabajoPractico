@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\TP_N5_TyDD2\Parte A\simulation\qsim
+vBlock1
+Z1 !s100 SbU6LeXOgT[ImYn:b4P;a2
+Z2 IH4NJeKTB1YcfI^M_1gZYD0
+Z3 VPmF:0a^@A[Zab6;=afLUh2
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_A\simulation\qsim
+Z5 w1701823495
+Z6 8EjercicioLED.vo
+Z7 FEjercicioLED.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|EjercicioLED.vo|
+Z10 o-work work -O0
+Z11 n@block1
+!i10b 1
+!s85 0
+Z12 !s108 1701823495.671000
+Z13 !s107 EjercicioLED.vo|
+!s101 -O0
+vBlock1_vlg_check_tst
+!i10b 1
+Z14 !s100 Io=Ac4S0=dI?KUbfU7lJ61
+Z15 I0Dkn=Xb`^>7IHYgAo6g2n3
+Z16 VUjdXO5BmO=06g3kcShRmn1
+R4
+Z17 w1701823494
+Z18 8EjercicioLED.vt
+Z19 FEjercicioLED.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z20 !s108 1701823495.736000
+Z21 !s107 EjercicioLED.vt|
+Z22 !s90 -work|work|EjercicioLED.vt|
+!s101 -O0
+R10
+Z23 n@block1_vlg_check_tst
+vBlock1_vlg_sample_tst
+!i10b 1
+Z24 !s100 USaVz_?BkZjZHT1LT3@X70
+Z25 I^V^lhXRC4n@BL6GQB`ZzF0
+Z26 Voazie`HEUm2>YA<RoRVNm3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@block1_vlg_sample_tst
+vBlock1_vlg_vec_tst
+!i10b 1
+!s100 ?hH<cO3JJ_B32UG:SKbFZ2
+Icf]VjQHi6f34bP@idad>12
+Z28 V8EbEX^g@9e0ZUXjTWSm=l2
+R4
+R17
+R18
+R19
+Z29 L0 154
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@block1_vlg_vec_tst
+vEjercicioLED
+Z31 ILJSJRi;L5oa3cOgnzRm>11
+Z32 Vkn0iVSic4kZFlG2idJPlh2
+R4
+Z33 w1700321803
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z34 n@ejercicio@l@e@d
+Z35 !s100 l?SS]7eNdi8<aF<lJPJ^N1
+Z36 !s108 1700321804.116000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicioLED_vlg_check_tst
+Z37 !s100 P:[V@n0Ho6A^Gj>UOC7eM3
+Z38 Ill78S<PV<<@Y1NRMRXHA03
+Z39 V[ncK7BhJ2J;];YoFJo>QZ2
+R4
+Z40 w1700321802
+R18
+R19
+L0 59
+R8
+r1
+31
+Z41 !s108 1700321804.179000
+Z42 !s107 EjercicioLED.vt|
+R22
+R10
+Z43 n@ejercicio@l@e@d_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicioLED_vlg_sample_tst
+Z44 !s100 HI4TC8j4;`Y@?S17D3hn?1
+Z45 Ig_m03oS8LCbHW_8aL[K=W1
+Z46 VFX<ONDGPPYVJn8?oUGRVc2
+R4
+R40
+R18
+R19
+L0 29
+R8
+r1
+31
+R41
+R42
+R22
+R10
+Z47 n@ejercicio@l@e@d_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vEjercicioLED_vlg_vec_tst
+Z48 Ic[VfIUGJof41TH<mZHTbT0
+Z49 VX_Hh]GC0zoZ5KLS22E]7D1
+R4
+R40
+R18
+R19
+R29
+R8
+r1
+31
+R41
+R42
+R22
+R10
+Z50 n@ejercicio@l@e@d_vlg_vec_tst
+Z51 !s100 nW[XmZd9ooeOC02_T4CkT1
+!i10b 1
+!s85 0
+!s101 -O0

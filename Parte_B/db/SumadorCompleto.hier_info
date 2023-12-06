@@ -1,0 +1,43 @@
+|SumadorCompleto
+a_in => FF_D:D1.D
+b_in => FF_D:D2.D
+clock => FF_D:D1.clock
+clock => FF_D:D2.clock
+clock => FF_D:D3.clock
+clock => FF_D:D4.clock
+clock => FF_D:D5.clock
+carry_in => FF_D:D3.D
+suma <= FF_D:D5.Q
+carry_out <= FF_D:D4.Q
+
+
+|SumadorCompleto|FF_D:D1
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|SumadorCompleto|FF_D:D2
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|SumadorCompleto|FF_D:D3
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|SumadorCompleto|FF_D:D4
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|SumadorCompleto|FF_D:D5
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

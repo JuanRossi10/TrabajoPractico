@@ -1,0 +1,175 @@
+|Block1
+clock => ff_d:b2v_inst13.clock
+clock => ff_d:b2v_inst14.clock
+clock => ff_d:b2v_inst19.clock
+clock => ff_d:b2v_inst21.clock
+clock => ff_d:b2v_inst22.clock
+clock => ff_d:b2v_inst28.clock
+clock => ff_d:b2v_inst29.clock
+clock => ff_d:b2v_inst30.clock
+clock => ff_d:b2v_inst31.clock
+clock => ff_d:b2v_inst32.clock
+clock => ff_d:b2v_inst33.clock
+clock => ff_d:b2v_inst34.clock
+clock => ff_d:b2v_inst5.clock
+clock => ff_d:b2v_inst6.clock
+clock => ff_d:b2v_inst7.clock
+clock => ff_d:b2v_inst8.clock
+A3 => ff_d:b2v_inst13.D
+B3 => ff_d:b2v_inst14.D
+A2 => ff_d:b2v_inst5.D
+B2 => ff_d:b2v_inst6.D
+A1 => ff_d:b2v_inst8.D
+B1 => ff_d:b2v_inst7.D
+A0 => ff_d:b2v_inst19.D
+B0 => ff_d:b2v_inst21.D
+SOR => ff_d:b2v_inst22.D
+S0 <= ff_d:b2v_inst28.Q
+S1 <= ff_d:b2v_inst29.Q
+S2 <= ff_d:b2v_inst30.Q
+S3yN <= ff_d:b2v_inst31.Q
+Z <= ff_d:b2v_inst32.Q
+C <= ff_d:b2v_inst33.Q
+V <= ff_d:b2v_inst34.Q
+
+
+|Block1|Sumador:b2v_inst1
+a_in => suma.IN0
+a_in => carry_out.IN0
+b_in => suma.IN1
+b_in => carry_out.IN1
+carry_in => suma.IN1
+carry_in => carry_out.IN1
+suma <= suma.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst13
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst14
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst19
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Sumador:b2v_inst2
+a_in => suma.IN0
+a_in => carry_out.IN0
+b_in => suma.IN1
+b_in => carry_out.IN1
+carry_in => suma.IN1
+carry_in => carry_out.IN1
+suma <= suma.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst21
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst22
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst28
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst29
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Sumador:b2v_inst3
+a_in => suma.IN0
+a_in => carry_out.IN0
+b_in => suma.IN1
+b_in => carry_out.IN1
+carry_in => suma.IN1
+carry_in => carry_out.IN1
+suma <= suma.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst30
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst31
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst32
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst33
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst34
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|Sumador:b2v_inst4
+a_in => suma.IN0
+a_in => carry_out.IN0
+b_in => suma.IN1
+b_in => carry_out.IN1
+carry_in => suma.IN1
+carry_in => carry_out.IN1
+suma <= suma.DB_MAX_OUTPUT_PORT_TYPE
+carry_out <= carry_out.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst5
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst6
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst7
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|Block1|FF_D:b2v_inst8
+D => Q~reg0.DATAIN
+clock => Q~reg0.CLK
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,12 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity EjercicioLED is;
+port(sw1,sw2:in std_logic; LED: out std_logic);
+end EjercicioLED;
+
+architecture behavioral of EjercicioLED is
+
+begin
+LED <= not(sw1 and sw2)
+end behavioral;

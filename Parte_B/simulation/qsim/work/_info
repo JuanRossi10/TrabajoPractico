@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_B\simulation\qsim
+vSumadorCompleto
+Z1 !s100 :JRYWG7mC0NI4bFaEHdHg1
+Z2 Ic@N]^YUjomK8mFKV39cA<2
+Z3 Vkf?lZieUM[^1@X;B:;EaY0
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_B\simulation\qsim
+Z5 w1700330080
+Z6 8SumadorCompleto.vo
+Z7 FSumadorCompleto.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|SumadorCompleto.vo|
+Z10 o-work work -O0
+Z11 n@sumador@completo
+!i10b 1
+!s85 0
+Z12 !s108 1700330081.427000
+Z13 !s107 SumadorCompleto.vo|
+!s101 -O0
+vSumadorCompleto_vlg_check_tst
+!i10b 1
+Z14 !s100 N:<ONm9596P3E9:IK2kiO2
+Z15 I;^Q5`j]PIX56JHS71E5;V0
+Z16 VN1Y=Qf1[3X2L@3O;d3=eJ0
+R4
+R5
+Z17 8SumadorCompleto.vt
+Z18 FSumadorCompleto.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z19 !s108 1700330081.490000
+Z20 !s107 SumadorCompleto.vt|
+Z21 !s90 -work|work|SumadorCompleto.vt|
+!s101 -O0
+R10
+Z22 n@sumador@completo_vlg_check_tst
+vSumadorCompleto_vlg_sample_tst
+!i10b 1
+Z23 !s100 PE]z?_VA^9a_CR0UeU?[P0
+Z24 ImziL8j[;A<A4c0LJKP_DQ3
+Z25 VcFb:aBhHSUi0?9[ckUKKm2
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z26 n@sumador@completo_vlg_sample_tst
+vSumadorCompleto_vlg_vec_tst
+!i10b 1
+!s100 8^B1o>M7T^IX6QhP_RQdb3
+IY2MM_WWCI2l5I9I`K1lnI1
+Z27 VGH:5S1XBk`L<12G4cfZhS3
+R4
+R5
+R17
+R18
+Z28 L0 185
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z29 n@sumador@completo_vlg_vec_tst

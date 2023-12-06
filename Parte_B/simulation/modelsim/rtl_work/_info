@@ -1,0 +1,118 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_B\simulation\modelsim
+Eejersumador_tb
+Z1 w1700424857
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_B\simulation\modelsim
+Z5 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/EjerSumador_tb.vhd
+Z6 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/EjerSumador_tb.vhd
+l0
+L4
+Vm`[LIYC;:aWXcQJ?_0^^Y3
+!s100 MANgk6m<`RBILk:glbXVG1
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1700426504.188000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/EjerSumador_tb.vhd|
+Z10 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/EjerSumador_tb.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Abehavior
+R2
+R3
+DEx4 work 14 ejersumador_tb 0 22 m`[LIYC;:aWXcQJ?_0^^Y3
+l27
+L6
+VMMBQVk1j>39U?7Toj2<;Y1
+!s100 bL53c_`UCb=]E@HCenS:P1
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Eff_d
+Z13 w1699823476
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z16 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/FF_D.vhd
+Z17 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/FF_D.vhd
+l0
+L6
+VPHZ@2<1fLL8UK0X4ma1[P0
+R7
+31
+Z18 !s108 1700426504.007000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/FF_D.vhd|
+Z20 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/FF_D.vhd|
+R11
+R12
+!s100 d@aQNT<ZDoz4C5MIh<0ZJ1
+!i10b 1
+Abehavioral
+R14
+R15
+R2
+R3
+DEx4 work 4 ff_d 0 22 PHZ@2<1fLL8UK0X4ma1[P0
+l12
+L11
+VS<DEJ]Z>n[gHfg:V_=Rck1
+R7
+31
+R18
+R19
+R20
+R11
+R12
+!s100 @jmF;Kbbez7_<jf<i2l=@0
+!i10b 1
+Esumadorcompleto
+Z21 w1699823756
+R14
+R15
+R2
+R3
+R4
+Z22 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/SumadorCompleto.vhd
+Z23 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/SumadorCompleto.vhd
+l0
+L6
+V4EXg=^o2QPo[KM`z1YT@M1
+R7
+31
+Z24 !s108 1700426504.105000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/SumadorCompleto.vhd|
+Z26 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_B/SumadorCompleto.vhd|
+R11
+R12
+!s100 ?PWHH6^R50Kn5c_9XiO7=1
+!i10b 1
+Abehavioral
+R14
+R15
+R2
+R3
+DEx4 work 15 sumadorcompleto 0 22 4EXg=^o2QPo[KM`z1YT@M1
+l24
+L15
+V7`@5T>9J65K?]e?`78;^I3
+R7
+31
+R24
+R25
+R26
+R11
+R12
+!s100 dF188G4=mi?XmmPh^TJVO1
+!i10b 1

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Dec 06 11:23:57 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Sumador_Restador
+Top-level Entity Name : Block1
+Family : Cyclone III
+Device : EP3C80F780C7
+Timing Models : Final
+Total logic elements : 16 / 81,264 ( < 1 % )
+    Total combinational functions : 12 / 81,264 ( < 1 % )
+    Dedicated logic registers : 16 / 81,264 ( < 1 % )
+Total registers : 16
+Total pins : 17 / 430 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 2,810,880 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 488 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

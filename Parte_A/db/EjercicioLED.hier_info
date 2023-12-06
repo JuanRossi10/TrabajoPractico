@@ -1,0 +1,6 @@
+|Block1
+LED <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+SW1 => inst.IN0
+SW2 => inst.IN1
+
+

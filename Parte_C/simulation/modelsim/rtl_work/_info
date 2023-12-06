@@ -1,0 +1,153 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_C\simulation\modelsim
+Eblock1
+Z1 w1701871486
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_C\simulation\modelsim
+Z5 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd
+Z6 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd
+l0
+L24
+VMS@5?>6goJ_JbZ7XeSP6D3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1701874135.346000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd|
+Z10 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 JOXgRMca@hc<932E9OHzK2
+!i10b 1
+Abdf_type
+R2
+R3
+DEx4 work 6 block1 0 22 MS@5?>6goJ_JbZ7XeSP6D3
+l96
+L47
+VH7TBIAU9^MhBZecd8@iE73
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 5BY>4:Fih[Hm@JA9BM:AX1
+!i10b 1
+Eblock1_tb
+Z13 w1701874125
+R2
+R3
+R4
+Z14 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd
+Z15 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd
+l0
+L4
+V9TMHccLSRbl?749eMllSm0
+!s100 ^NfG53>NSSMZ6UYL5lDZ:0
+R7
+31
+!i10b 1
+Z16 !s108 1701874135.616000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd|
+Z18 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd|
+R11
+R12
+Acomportamiento
+R2
+R3
+DEx4 work 9 block1_tb 0 22 9TMHccLSRbl?749eMllSm0
+l52
+L7
+Vz`QOHMQNlCMUk<LQzcM0]0
+!s100 mfNlXQQd0OjRKV6_T[7]`2
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
+Eff_d
+Z19 w1700512561
+Z20 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z22 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd
+Z23 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd
+l0
+L6
+VPHZ@2<1fLL8UK0X4ma1[P0
+R7
+31
+Z24 !s108 1701874135.424000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd|
+Z26 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd|
+R11
+R12
+!s100 d@aQNT<ZDoz4C5MIh<0ZJ1
+!i10b 1
+Abehavioral
+R20
+R21
+R2
+R3
+DEx4 work 4 ff_d 0 22 PHZ@2<1fLL8UK0X4ma1[P0
+l12
+L11
+VS<DEJ]Z>n[gHfg:V_=Rck1
+R7
+31
+R24
+R25
+R26
+R11
+R12
+!s100 @jmF;Kbbez7_<jf<i2l=@0
+!i10b 1
+Esumador
+Z27 w1701822021
+R20
+R21
+R2
+R3
+R4
+Z28 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd
+Z29 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd
+l0
+L6
+VYGGJ:cF0j5SKlcFzTE:OI3
+R7
+31
+Z30 !s108 1701874135.530000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd|
+Z32 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd|
+R11
+R12
+!s100 Ub7FSD>6dZiJjl:NM8kF@1
+!i10b 1
+Abehavioral
+R20
+R21
+R2
+R3
+DEx4 work 7 sumador 0 22 YGGJ:cF0j5SKlcFzTE:OI3
+l16
+L14
+VLE`BRYK47d=9=f5U^i:o>3
+R7
+31
+R30
+R31
+R32
+R11
+R12
+!s100 dC@imhNd]zmlO2o9JiC:R0
+!i10b 1

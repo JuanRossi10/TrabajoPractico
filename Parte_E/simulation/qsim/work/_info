@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_E\simulation\qsim
+vmaq_temp
+Z1 !s100 g?5;SJN>cCD8m@hQ8ZOcg3
+Z2 IdCfm<9LjKQ2Cca5jVN@`z3
+Z3 VJL7X1GEaIeFG^Q7]G?WcW1
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_E\simulation\qsim
+Z5 w1701791050
+Z6 8maq_temp.vo
+Z7 Fmaq_temp.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|maq_temp.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1701791051.707000
+Z12 !s107 maq_temp.vo|
+!s101 -O0
+vmaq_temp_vlg_sample_tst
+!i10b 1
+Z13 !s100 4DnHdGQ6<TZ91WaibC8IP2
+Z14 I94n[Di09FFJC^RV5kDL`P0
+Z15 VjKUO`TjP10JnFY1lD@V6_3
+R4
+w1701791049
+Z16 8maq_temp.vt
+Z17 Fmaq_temp.vt
+L0 29
+R8
+r1
+!s85 0
+31
+!s108 1701791051.780000
+!s107 maq_temp.vt|
+Z18 !s90 -work|work|maq_temp.vt|
+!s101 -O0
+R10

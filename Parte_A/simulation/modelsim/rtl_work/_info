@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_A\simulation\modelsim
+Eejercicioled
+Z1 w1699070450
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Juan\Desktop\TP_N5_TyDD2\Parte_A\simulation\modelsim
+Z5 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED.vhd
+Z6 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED.vhd
+l0
+L4
+VHe=JBB<0`_0?Wmg9MGUPM0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1700324441.145000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED.vhd|
+Z10 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 CNcg7U<8hA8l=RBe4D_aC3
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 12 ejercicioled 0 22 He=JBB<0`_0?Wmg9MGUPM0
+l9
+L7
+VR[DlNieg5LBd3`R`@_2?P3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 W[@OiVW<cfOMh`C]i:0d63
+!i10b 1
+Eejercicioled_testbench
+Z13 w1700324216
+R2
+R3
+R4
+Z14 8C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED_testbench.vhd
+Z15 FC:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED_testbench.vhd
+l0
+L4
+VP56VRmk@_SKn5g;ZATOf62
+!s100 [2kRTREN7Tfain]Jiamn52
+R7
+31
+!i10b 1
+Z16 !s108 1700324441.232000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED_testbench.vhd|
+Z18 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_A/EjercicioLED_testbench.vhd|
+R11
+R12
+Aejercicioled_testbench1
+R2
+R3
+DEx4 work 22 ejercicioled_testbench 0 22 P56VRmk@_SKn5g;ZATOf62
+l20
+L6
+Vmz:3f:HCXmcN?I79G3K<L1
+!s100 PfI^RXh0;AXRQmDJH>NZQ0
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
