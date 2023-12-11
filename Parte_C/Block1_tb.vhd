@@ -47,7 +47,7 @@ architecture comportamiento of Block1_tb is
 	signal Z    : std_logic;
 	
 
-Constant clk_p : time := 10ns;
+Constant clk_p : time := 1ns;
 	
 begin
 	uut : Block1 port map (
@@ -81,9 +81,9 @@ end process;
 	stim_pr: process 
 	begin 
 	A0 <= '0';A1 <= '0';A2 <= '0';A3 <= '0';B0 <= '0';B1 <= '0'; B2 <= '0'; B3 <= '0'; SOR <= '0'; wait for 60ns;
-	A0 <= '1';A1 <= '0';A2 <= '1';A3 <= '0';B0 <= '0';B1 <= '1'; B2 <= '0'; B3 <= '0'; SOR <= '1';wait for 60ns;
+	A0 <= '1';A1 <= '0';A2 <= '1';A3 <= '0';B0 <= '0';B1 <= '1'; B2 <= '0'; B3 <= '0'; SOR <= '0';wait for 60ns;
 	A0 <= '0';A1 <= '1';A2 <= '1';A3 <= '1';B0 <= '1';B1 <= '1'; B2 <= '0'; B3 <= '0'; SOR <= '0';wait for 60ns;
-	A0 <= '1';A1 <= '1';A2 <= '0';A3 <= '0';B0 <= '0';B1 <= '1'; B2 <= '1'; B3 <= '1'; SOR <= '1';wait for 60ns;
+	A0 <= '1';A1 <= '1';A2 <= '0';A3 <= '0';B0 <= '0';B1 <= '1'; B2 <= '1'; B3 <= '1'; SOR <= '0';wait for 60ns;
 	wait;
 	end process;
 	end;

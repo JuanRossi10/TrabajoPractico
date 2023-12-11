@@ -15,7 +15,7 @@ L24
 VMS@5?>6goJ_JbZ7XeSP6D3
 Z7 OV;C;10.1d;51
 31
-Z8 !s108 1701874135.346000
+Z8 !s108 1702277100.821000
 Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd|
 Z10 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1.vhd|
 Z11 o-93 -work work -O0
@@ -39,7 +39,7 @@ R12
 !s100 5BY>4:Fih[Hm@JA9BM:AX1
 !i10b 1
 Eblock1_tb
-Z13 w1701874125
+Z13 w1702276190
 R2
 R3
 R4
@@ -52,7 +52,7 @@ V9TMHccLSRbl?749eMllSm0
 R7
 31
 !i10b 1
-Z16 !s108 1701874135.616000
+Z16 !s108 1702277101.076000
 Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd|
 Z18 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Block1_tb.vhd|
 R11
@@ -63,8 +63,8 @@ R3
 DEx4 work 9 block1_tb 0 22 9TMHccLSRbl?749eMllSm0
 l52
 L7
-Vz`QOHMQNlCMUk<LQzcM0]0
-!s100 mfNlXQQd0OjRKV6_T[7]`2
+V:`<O^IhIL66Ql2Bd1Ae[d3
+!s100 7dm[^eKhoV68CdYb6>]em0
 R7
 31
 !i10b 1
@@ -87,7 +87,7 @@ L6
 VPHZ@2<1fLL8UK0X4ma1[P0
 R7
 31
-Z24 !s108 1701874135.424000
+Z24 !s108 1702277100.897000
 Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd|
 Z26 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/FF_D.vhd|
 R11
@@ -126,7 +126,7 @@ L6
 VYGGJ:cF0j5SKlcFzTE:OI3
 R7
 31
-Z30 !s108 1701874135.530000
+Z30 !s108 1702277100.993000
 Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd|
 Z32 !s107 C:/Users/Juan/Desktop/TP_N5_TyDD2/Parte_C/Sumador.vhd|
 R11
